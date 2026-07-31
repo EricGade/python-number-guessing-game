@@ -56,6 +56,7 @@ python number_guessing_game.py
 ## 📷 Screenshot
 
 *Add a screenshot of your game here.*
+![picture](Images/python-number-guessing-game-screenshot.png)
 
 Example:
 
